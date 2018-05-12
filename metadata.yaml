@@ -1,5 +1,5 @@
 _repo: The-Divine-Comedy-by-Dante-Illustrated_8800
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Doré, Gustave
@@ -23,9 +23,7 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Henry_Francis_Cary
 covers:
 - cover_type: archival
-  image_path: 8800/8800-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 8800-h/files/8800/8800-h/images/cover.jpg
 creator:
   author:
     agent_name: Dante Alighieri
@@ -36,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/507
     wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8800#The-Divine-Comedy-by-Dante-Illustrated
 gutenberg_bookshelf:
 - Italy
 - Best Books Ever Listings
